@@ -1,6 +1,6 @@
 # НЕТОЧКА НЕЗВАНОВА
 
-## 涅朵琦卡
+## 涅朵琦卡（荣如德译本）
 
 - [简介](books/RRD/README.md)
 - [第一章](books/RRD/chapter1.md)
@@ -12,13 +12,13 @@
 - [第七章](books/RRD/chapter7.md)
 
 
-## 涅朵奇卡·涅茨瓦诺娃
+## 涅朵奇卡·涅茨瓦诺娃（荣如德译本、巡海游侠-路不平润色）
 
 - [简介](books/XHYX-LBP/README.md)
 - [第五章](books/XHYX-LBP/chapter5.md)
 
 
-## 涅托奇卡·涅兹万诺娃
+## 涅托奇卡·涅兹万诺娃（郭家申译本）
 
 - [简介](books/GJS/README.md)
 - [第一章](books/GJS/chapter1.md)
